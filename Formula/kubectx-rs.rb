@@ -1,8 +1,8 @@
 class KubectxRs < Formula
   desc "Faster way to switch between clusters and namespaces in kubectl (Rust port)"
   homepage "https://github.com/jayakornk/kubectx-rs"
-  url "https://github.com/jayakornk/kubectx-rs/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4b645f7fabee3d60ba82ce9703273e51c096c914f13c432fba75665b82970a92"
+  url "https://github.com/jayakornk/kubectx-rs/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "1e800c708fcc2d3cc90030396529fb076e5803220f973247d7f7b53d0607da2d"
   license "Apache-2.0"
   head "https://github.com/jayakornk/kubectx-rs.git", branch: "main"
 
